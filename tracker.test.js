@@ -12,7 +12,7 @@ describe('SuccessPlanTracker', () => {
       planOrigin: 'Manual',
     };
 
-    describe('renders properly with complete tracking data', () => {
+    it('renders properly with complete tracking data', () => {
       const successPlanTracker = new Tracker(trackingDataComplete);
 
       trackingDataComplete.sourceUrl = 'about:blank';
