@@ -1,7 +1,7 @@
 {
-  "name": "rdstation",
-  "author": "Chapter Front-end",
-  "repository": "https://github.com/ResultadosDigitais/rdstation",
+  "name": "leosl",
+  "author": "jest error",
+  "repository": "https://github.com/LeoSL/test-jest",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
