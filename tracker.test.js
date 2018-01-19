@@ -12,13 +12,6 @@ describe('SuccessPlanTracker', () => {
       planOrigin: 'Manual',
     };
 
-    const trackingDataIncomplete = {
-      accountId: 1,
-      accountName: 'Xunrassic Park',
-      userId: 123,
-      userEmail: 'xundossaur@dev.org',
-    };
-
     describe('renders properly with complete tracking data', () => {
       const successPlanTracker = new Tracker(trackingDataComplete);
 
